@@ -1,6 +1,6 @@
 ## Visualizador y Analizador de Bloques Mineros
 
-Este proyecto es una herramienta open-source en Python desarrollada con apoyo de inteligencia artificial, pensada para que cualquier persona —con o sin experiencia previa— pueda explorar, de forma sencilla, algunos conceptos fundamentales de la planificación minera a nivel de bloques. Aunque se trata de un programa básico y aún en desarrollo, permite visualizar y analizar información de forma amigable, acercando al usuario a procesos típicos del análisis minero.
+Este proyecto es una herramienta open-source en Python, pensada para que cualquier persona —con o sin experiencia previa— pueda explorar, de forma sencilla, algunos conceptos fundamentales de la planificación minera a nivel de bloques. Aunque se trata de un programa básico y aún en desarrollo, permite visualizar y analizar información de forma amigable, acercando al usuario a procesos típicos del análisis minero.
 
 ### Funcionalidades principales
 - Visualización 3D de bloques, a partir de archivos Excel con coordenadas, tamaño y leyes

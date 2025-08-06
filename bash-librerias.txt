@@ -1,0 +1,1 @@
+pip install pandas numpy pyvista openpyxl PyQt5 pyvistaqt matplotlib mplcursors scipy vtk openpyxl

@@ -16,3 +16,5 @@ Un archivo .xlsx con, al menos, las siguientes columnas:
 
 ### Estado del proyecto
 En evolución. Se irán incorporando mejoras, mayor robustez y nuevas funciones conforme avance el desarrollo.
+
+### HECHO POR MATÍAS ALFARO RUZ ###

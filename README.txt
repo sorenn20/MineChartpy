@@ -1,3 +1,6 @@
+# ============================================
+#   HECHO POR MATÍAS ALFARO RUZ
+# ============================================
 ## Visualizador y Analizador de Bloques Mineros
 
 Este proyecto es una herramienta open-source en Python, pensada para que cualquier persona —con o sin experiencia previa— pueda explorar, de forma sencilla, algunos conceptos fundamentales de la planificación minera a nivel de bloques. Aunque se trata de un programa básico y aún en desarrollo, permite visualizar y analizar información de forma amigable, acercando al usuario a procesos típicos del análisis minero.
@@ -16,5 +19,7 @@ Un archivo .xlsx con, al menos, las siguientes columnas:
 
 ### Estado del proyecto
 En evolución. Se irán incorporando mejoras, mayor robustez y nuevas funciones conforme avance el desarrollo.
+# ============================================
+#   HECHO POR MATÍAS ALFARO RUZ
+# ============================================
 
-### HECHO POR MATÍAS ALFARO RUZ ###
